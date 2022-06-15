@@ -5,3 +5,12 @@
   background-color: #000201 !important;
 }
 
+@media screen and (min-width: 1200px) { 
+  
+  p {
+    font-size: 1.5em;
+  }
+ 
+  }
+
+
