@@ -2,12 +2,12 @@
 
 
 .cc-navbar {
-  background-color: #000201 !important;
+  background-color: #1d1b29 !important;
 }
 
 .cc-image, .cc-text {
   padding: 10px 60px;
-  text-align: center;
+  text-align: left;
 }
 
 @media screen and (min-width: 1200px) { 
