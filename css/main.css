@@ -7,16 +7,12 @@
 
 .cc-image, .cc-text {
   padding: 10px 60px;
-  text-align: left;
 }
 
 .cc-portfolio {
   padding: 10px 30px;
-  text-align: center;
 }
-.cc-p {
-  text-align: justify;
-}
+
 
 .h2-text {
   letter-spacing: 2px !important;
