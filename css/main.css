@@ -12,7 +12,10 @@
 
 .cc-portfolio {
   padding: 10px 30px;
-  text-align: left;
+  text-align: center;
+}
+.cc-p {
+  text-align: justify;
 }
 
 .h2-text {
