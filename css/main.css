@@ -37,6 +37,12 @@ span {
   .cc-image{
     width: 100%;
   } 
+
+  span {
+    font-size: 14px;
+    letter-spacing: 1px;
+    
+  }
  
   }
 
