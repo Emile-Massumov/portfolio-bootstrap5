@@ -28,6 +28,10 @@ span {
   letter-spacing: 2px !important;
 }
 
+.card {
+  border:#fff !important;
+}
+
 @media screen and (min-width: 1200px) { 
   
   p {
