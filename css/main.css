@@ -1,4 +1,6 @@
-
+html, body {
+  font-family: 'Montserrat', sans-serif;
+}
 
 
 .cc-navbar {
@@ -21,12 +23,21 @@ span {
   font-size: 8px;
   text-transform: uppercase;
   letter-spacing: 2px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 
-.h2-text {
+.h2-text, h3 {
   letter-spacing: 2px !important;
+  font-weight: bold;
 }
+
+.p-text {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 20px;
+}
+
+
 
 .card {
   border:#fff !important;
@@ -36,6 +47,7 @@ span {
   
   p {
     font-size: 1.5em;
+    font-family: 'Montserrat', sans-serif;
   }
 
   .cc-image{
@@ -45,7 +57,7 @@ span {
   span {
     font-size: 14px;
     letter-spacing: 1px;
-    
+    font-family: 'Montserrat', sans-serif;
   }
  
   }
