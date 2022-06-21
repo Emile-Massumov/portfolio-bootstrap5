@@ -7,8 +7,13 @@ html, body {
   background-color: #0a0403 !important;
 }
 
-.cc-image, .cc-text {
+.cc-image { 
   padding: 10px 60px;
+}
+.cc-text {
+  padding: 10px 20px;
+  text-align: left;
+
 }
 
 .cc-portfolio {
