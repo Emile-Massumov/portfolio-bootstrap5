@@ -12,7 +12,7 @@ html, body {
 }
 
 .cc-portfolio {
-  padding: 10px 30px;
+  padding:30px;
 }
 
 .cc-image-c {
@@ -34,10 +34,14 @@ span {
 
 .p-text {
   font-family: 'Roboto Mono', monospace;
-  font-size: 20px;
+  font-size: 16px;
 }
 .navbar-brand {
   font-size: 10px;
+}
+
+.rounded-start {
+  background-color: whitesmoke !important;
 }
 
 
@@ -61,6 +65,11 @@ span {
     font-size: 14px;
     letter-spacing: 1px;
     font-family: 'Montserrat', sans-serif;
+  }
+
+  .p-text {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
   }
  
   }
