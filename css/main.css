@@ -46,6 +46,11 @@ span {
   font-size: 10px;
 }
 
+.navbar {
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
 .rounded-start {
   background-color: rgb(235, 229, 229) !important;
 }
@@ -81,6 +86,8 @@ span {
   .navbar-brand {
     font-size: 20px;
 }
+
+
  
   }
 
