@@ -32,9 +32,9 @@ span {
 }
 
 
-.h2-text, h3 {
+.h2-text, h4 {
   letter-spacing: 2px !important;
-  font-weight: bold;
+  font-weight:bold;
 }
 
 .p-text {
@@ -77,6 +77,10 @@ span {
     font-family: 'Roboto Mono', monospace;
     font-size: 20px;
   }
+
+  .navbar-brand {
+    font-size: 20px;
+}
  
   }
 
