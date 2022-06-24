@@ -58,6 +58,8 @@ span {
 
 
 
+
+
 .card {
   border:#fff !important;
 }
@@ -69,7 +71,7 @@ span {
     font-family: 'Montserrat', sans-serif;
   }
 
-  h4 {
+  h4, .h2-text {
     font-size: 28px;
   }
 
